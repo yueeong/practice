@@ -1,0 +1,1 @@
+from .anagram_checker import ArraySequences
